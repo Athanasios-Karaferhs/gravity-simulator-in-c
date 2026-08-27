@@ -1,0 +1,9 @@
+main
+orbits.png
+positions.csv
+myenv/
+.venv/
+*.o
+*.out
+.vscode/
+*.swp
