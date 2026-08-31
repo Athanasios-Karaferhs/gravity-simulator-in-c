@@ -94,7 +94,7 @@ void simulate_step(Body bodies[], int n)
     }
 }
 
-// Κακο παραδειγμα που ζητησα απο το claude...
+// thanks claude!
 void init_bodies(Body bodies[], int n)
 {
     srand(time(NULL));

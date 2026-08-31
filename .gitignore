@@ -5,5 +5,5 @@ myenv/
 .venv/
 *.o
 *.out
-.vscode/
+.vscode
 *.swp
